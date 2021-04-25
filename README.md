@@ -1,0 +1,1 @@
+# This repository contains JavaScript Essential Training files for Linkedin learning
